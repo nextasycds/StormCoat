@@ -7,5 +7,5 @@ def AmbienceDark():
     strip2.show()
     strip3.show()
 
-def AmbianceLight():
+def AmbienceLight():
     for j in range(0, 616, 4)
