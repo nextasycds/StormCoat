@@ -79,5 +79,7 @@ while True:
 
         lightning.plumeLight(strip, 615)
 
-    #if data==b'40':
-    #    spiral.colorWipe(RED, 0.1, strip)'''
+
+    if data==b'40':
+        spiral.colorWipe(RED, 0.1, strip)'''
+
